@@ -1,1 +1,1 @@
-# IS210_HQTCSDL_DOAN
+# IS210 - HỆ QUẢN TRỊ CƠ SỞ DỮ LIỆU
